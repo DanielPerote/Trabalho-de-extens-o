@@ -70,3 +70,4 @@ def main():
 
 if __name__ == "_main_":
     main()
+add_item(name="goiabada", quantity=3)
